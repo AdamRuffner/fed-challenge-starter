@@ -51,7 +51,7 @@ function Cards() {
 
       <Card
         src={
-          "https://ucfa9a3baf3fe6cf0d0c57e26e5f.previews.dropboxusercontent.com/p/thumb/ABF3RxsToE8aeKTW7Erpa1fzVOiUMuAtCY0gwOJ7zHhhb-C6RlABm0FpTX8adLd8Piq739IowjpJFZZNWXhFayM-HWL_AXtW-O9Hfv6rodE-2FlLBP35UthgMVY_cCkW-BR2F9QSpDk8eHDbmYRjgBbEcdyQKrmgDlXUdCP68VSjAahUTogfZ3t1o8mS3imidftef463QbNFAI-9j--Sg295HAiiO0TyaqtCz1WostQ3uXnyjaVt1-9qEgw1BpuXV2EWmw7qPzsZ7X2034Ens6empeNfGIcxjiiX3qfE0jNFVzxolXr6evifITghE-4N20FB1RInlLTAGWqHye5K1sSh-87Q74_OTChxiatPP8omSg/p.jpeg?fv_content=true&size_mode=5"
+          "https://ucc1a61782bb868c9d1fafebffb1.previews.dropboxusercontent.com/p/thumb/ABGW8oIw5YjgIxz_SE9WBe5Lq4WhzwdRdIfOpTCHWqr-ghqKeuOjnm07uTWe1hv1G9cIWU-87xVEf2a_mIY_Sc6zFogIr3j2oC_Y7QU1fVWYNj1V4e8qQAUCJI2qdn2GKc1CqGYDVPTJ-MYCpfi_e8Rx9S_BJdsEhDTyphf3fZwBrK-mvJu8X6lx-TdP82V7g8etANY0HQyJ4URqT4ivBOuOjp9lSYLccM5Edwxbtjh1u2gakYcuRAt0QQqVQalbJHq6rbju1AtN_MASS_ICtkRsDg1ADTwEApBBqdlk4tL7xA4HWYuV5nO9oZYKIXBQcHa19B4nTX4FWSnScXKS1eOEzr3eT61lF7xKJQjsdieMIg/p.jpeg?fv_content=true&size_mode=5"
         }
         alt={"header image"}
         description={"20 Minutes to Toned"}
